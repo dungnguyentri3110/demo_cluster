@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40028033212",
+    "project_id": "fir-cluster",
+    "storage_bucket": "fir-cluster.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40028033212:android:60a60229b294fa637f80b9",
+        "android_client_info": {
+          "package_name": "com.dungdeptrai.com.demo_cluster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdCq1n3ngQj4rAThi8QJ7LpTCt6BlITjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
